@@ -1,1 +1,2 @@
 # myappexample
+A demo repository.
